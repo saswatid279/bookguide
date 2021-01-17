@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  background-color: blueviolet;
+  padding-top: 4px;
+  color: cornsilk;
+  border-radius: 5px;
+}
+.btn {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: blueviolet;
+  cursor: pointer;
+  margin: 1rem;
+  font-weight: bold;
+  color: cornsilk;
+}
+.section {
+  margin: 2rem;
+}
+.bookdisplay {
+  background-color: blueviolet;
+  padding: 5px;
+  color: cornsilk;
+  margin-top: 2rem;
+  border-radius: 5px;
+  padding: 30px 2px;
+}
